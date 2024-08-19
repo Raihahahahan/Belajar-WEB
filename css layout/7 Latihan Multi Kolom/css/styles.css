@@ -1,0 +1,45 @@
+*{
+    font-family: Tahoma;
+    box-sizing: border-box;
+}  
+
+.header{
+    background-color: aqua;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    padding: 10px;
+    height: 100px;
+    z-index: 2;
+}
+
+.header h1{
+    margin-left: 50px;
+}
+
+.content{
+    z-index: 1;
+    top: 100px;
+    position: relative;
+    max-width: 800px;
+    margin: 0px auto 0px auto;
+}
+
+.content h2{
+    font-size: 20px;
+}
+
+.kolomkonten{
+    width: 500px;
+    float: left;
+}
+.kolommenu{
+    background-color: aquamarine;
+    float: left;
+    width: 200px;
+    padding: 10px;
+}
+.kolommenu ul{
+    list-style-type: none;
+}

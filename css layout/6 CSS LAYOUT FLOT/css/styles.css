@@ -1,0 +1,15 @@
+*{
+    font-family: Tahoma;
+}
+p{
+    text-align: justify;
+}
+blockquote{
+    float: left;
+    margin: 10px;
+    font-style: italic;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    width: 200px;
+    padding: 10px;
+}

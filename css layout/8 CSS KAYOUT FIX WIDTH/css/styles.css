@@ -1,0 +1,53 @@
+body{
+    width: 960px;
+    margin: 0px auto;
+    font-family: Tahoma;
+}
+
+#header h1{
+    text-align: center;
+}
+
+
+#nav{
+    background-color: whitesmoke ;
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+}
+
+#nav li{
+    display: inline;
+    padding: 5px;
+}
+
+#highlight{
+    text-align: center;
+    margin: 10px;
+    background-color: #efefef;
+}
+
+#highlight img{
+    width: 20%;
+}
+
+.article{
+    float: left;
+    background-color: #efefef;
+    width: 280px;
+    margin: 10px;
+    padding: 10px;
+    height: 200px;
+}
+
+#konten{
+    height: 100%;
+    overflow: auto;
+}
+
+.footer{
+    background-color: whitesmoke ;
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+}

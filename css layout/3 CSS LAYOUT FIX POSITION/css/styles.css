@@ -1,0 +1,15 @@
+p{
+    background-color: aqua;
+}
+
+.fix{
+    position: fixed;
+    background-color: blue;
+    top: 0px;
+    width: 100%;
+    left: 0px;
+}
+
+.container{
+    margin-top: 100px;
+}
